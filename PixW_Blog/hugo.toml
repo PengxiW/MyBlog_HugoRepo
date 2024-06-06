@@ -1,0 +1,4 @@
+baseURL = 'https://PengxiW.github.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+themes='Gallery'

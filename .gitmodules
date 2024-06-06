@@ -1,3 +1,6 @@
 [submodule "themes/gallery"]
 	path = themes/gallery
 	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+[submodule "PixW_Blog/themes/gallery"]
+	path = PixW_Blog/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git

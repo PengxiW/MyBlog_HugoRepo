@@ -1,4 +1,4 @@
-copyright = "© Your Name"
+copyright = "© Pix Wang"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ theme='Gallery'
   title = "My Gallery"
   [params.author]
     email = "user@example.com"
-    name = "Your Name"
+    name = "Pix Wang"
   [params.socialIcons]
     facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/"

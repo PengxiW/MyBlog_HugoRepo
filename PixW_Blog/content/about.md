@@ -7,4 +7,10 @@ menu:
     weight: 90
 ---
 
-This is a demonstration site for the Hugo Gallery theme.
+人生海海，山山而川
+
+希望我所记录的生活可以为你带来一丝感触
+
+- 网站以后的功能清单：
+- - 音乐播放器
+- - 评论系统

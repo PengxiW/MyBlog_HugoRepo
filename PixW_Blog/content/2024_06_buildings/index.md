@@ -1,6 +1,6 @@
 ---
 date: 2023-01-12
-featured_image: 
+featured_image: feature.jpg
 title: 建筑群
 featured: false
 private: false

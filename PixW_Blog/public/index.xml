@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pix Wang&#39;s Gallery on Gallery</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Pix Wang&#39;s Gallery on Gallery</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>user@example.com (Pix Wang)</managingEditor>
     <webMaster>user@example.com (Pix Wang)</webMaster>

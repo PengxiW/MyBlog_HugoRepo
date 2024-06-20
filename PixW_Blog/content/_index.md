@@ -14,4 +14,4 @@ params:
   theme: dark
 ---
 
-## Ojasdasdfa
+{{<music auto="https://music.163.com/#/song?id=1401880096">}}

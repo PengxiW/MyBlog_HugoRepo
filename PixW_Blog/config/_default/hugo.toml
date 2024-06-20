@@ -17,11 +17,11 @@ theme='Gallery'
     email = "user@example.com"
     name = "Pix Wang"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    github = "https://github.com/w853245475/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:pengxi.wang66@gmail.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -44,11 +44,15 @@ theme='Gallery'
     min = "0.121.2" 
 
 [menu]
-  [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
+  #[[menu.footer]]
+  #  name = "GitHub"
+  #  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  #  weight = 3
 
 [services]
   [services.rss]
     limit = 100
+
+#Used to add foriegn html
+[markup.goldmark.renderer]
+unsafe= true

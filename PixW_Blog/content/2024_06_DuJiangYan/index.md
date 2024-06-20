@@ -7,4 +7,4 @@ private: false
 description: 问道青城山，拜水都江堰
 ---
 
-## 尼康Z50
+{{<music auto="https://music.163.com/#/song?id=2095739648">}}

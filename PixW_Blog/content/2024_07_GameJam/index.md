@@ -5,9 +5,10 @@ title: 记一次 Game Jam
 featured: false
 private: false
 description: CiGA 2024 Game Jam
+weight: 2
 ---
 
-分享一次参加 Game Jam 开发 的体验
+分享一次参加  Game Jam 开发 的体验
 
 在刚刚过去的这个周末，我以游戏程序的身份参加了 CiGA Game Jam 成都站。Game Jam是一类极限开发游戏的比赛活动，要求参赛者在限定的时间内，根据指定的主题，开发完整的游戏。参与者往往需要和其他角色的人组成队伍参加 （也有大神一个人干完程序美术音效的），可以选择线上线下参加。
 

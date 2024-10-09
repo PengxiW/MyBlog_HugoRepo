@@ -6,6 +6,11 @@ https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/#9-%E5%
 
 https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku/
 
+### Hugo 常用命令
+
+# 清除 public 缓存，重新build
+hugo --cleanDestinationDir
+
 ### Hugo Theme
 
 https://github.com/nicokaiser/hugo-theme-gallery

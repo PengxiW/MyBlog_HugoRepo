@@ -3,4 +3,4 @@ package-lock.json
 .hugo_build.lock
 exampleSite/assets/jsconfig.json
 resources
-PixW_Blog/public/
+**/PixW_Blog/public/*

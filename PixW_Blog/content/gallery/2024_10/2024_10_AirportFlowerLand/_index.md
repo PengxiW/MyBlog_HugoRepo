@@ -6,6 +6,6 @@ title: 双流空港花田
 # private: false
 description: 2024年10月，双流空港花田
 weight: 1
-menus: "main" 
+menus: "gallery"
 # keywords: [Animals, Photos, Cats, Dogs]
 ---

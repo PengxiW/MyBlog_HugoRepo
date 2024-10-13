@@ -6,6 +6,6 @@ title: 2024-10
 # private: false
 description: 2024年10月，三峡 -> 宜昌 -> 奉节 -> 巫山
 weight: 1
-menus: "main" 
+menus: "gallery" 
 # keywords: [Animals, Photos, Cats, Dogs]
 ---
